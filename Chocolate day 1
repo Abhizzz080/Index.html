@@ -151,7 +151,7 @@
     <!-- Initial full chocolate image -->
     <img id="choco" src="https://i.imgur.com/5q3F3hM.png" alt="Chocolate">
     <p id="question">
-      Heyyy Mj!!! Who you accept my chocolate and move one step forward on being my valentine?
+      Heyyy Mj!!! Would you accept my chocolate and move one step forward on being my valentine?
     </p>
     <div>
       <button id="yesButton" class="btn">Yes</button>
